@@ -23,6 +23,7 @@ public class Launching {
 		driver.get("https://testautomationpractice.blogspot.com/");
 
 		driver.manage().window().maximize();
+		System.out.println("Mahi");
 	
 		
 //		System.setProperty("webdriver.driver.chrome", "C:\\Users\\ADMIN\\Downloads\\chromedriver-win64.exe");
