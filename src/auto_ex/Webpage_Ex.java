@@ -13,6 +13,8 @@ public class Webpage_Ex {
 	  driver.get("https://demo.nopcommerce.com/");
 	  
 	  driver.manage().window().maximize();
+
+		System.out.pritln("Aishu");
 	  
 	  
 	
